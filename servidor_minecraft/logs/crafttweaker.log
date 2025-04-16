@@ -1,20 +1,8 @@
-[16:41:06.239][INFO]: Successfully identified and loaded plugin jeitweaker:default
-[16:41:06.278][INFO]: Successfully identified and loaded plugin crafttweaker:builtin
-[16:41:06.279][INFO]: Successfully identified and loaded plugin crafttweaker:builtin_forge
-[16:41:09.228][INFO]: The following mods have explicit CraftTweaker support through the default plugin:
-[16:41:09.236][INFO]: - 'aquaculture' at version '1.18.2-2.3.12'
-[16:41:09.237][INFO]: - 'crafttweaker' at version '9.1.209'
-[16:41:09.239][INFO]: - 'farmersdelight' at version '1.18.2-1.2.2'
-[16:41:09.239][INFO]: - 'jeitweaker' at version '3.0.0.9'
-[16:42:11.816][INFO]: Started loading scripts for loader 'initialize'
-[16:42:12.885][INFO]: Compiling and executing scripts
-[16:42:13.031][INFO]: Successfully initialized modules [crafttweaker, expansions]
-[16:42:13.369][INFO]: Execution for loader 'initialize' completed successfully
-[16:43:11.342][INFO]: Started loading scripts for loader 'tags'
-[16:43:11.374][INFO]: Compiling and executing scripts
-[16:43:11.390][INFO]: Successfully initialized modules [crafttweaker, expansions]
-[16:43:11.401][INFO]: Execution for loader 'tags' completed successfully
-[16:43:18.360][INFO]: Started loading scripts for loader 'crafttweaker'
-[16:43:18.388][INFO]: Compiling and executing scripts
-[16:43:18.717][INFO]: Successfully initialized modules [mods, crafttweaker, expansions]
-[16:43:18.727][INFO]: Execution for loader 'crafttweaker' completed successfully
+[17:23:30.173][INFO]: Successfully identified and loaded plugin jeitweaker:default
+[17:23:30.200][INFO]: Successfully identified and loaded plugin crafttweaker:builtin
+[17:23:30.204][INFO]: Successfully identified and loaded plugin crafttweaker:builtin_forge
+[17:23:32.029][INFO]: The following mods have explicit CraftTweaker support through the default plugin:
+[17:23:32.034][INFO]: - 'aquaculture' at version '1.18.2-2.3.12'
+[17:23:32.034][INFO]: - 'crafttweaker' at version '9.1.209'
+[17:23:32.034][INFO]: - 'farmersdelight' at version '1.18.2-1.2.2'
+[17:23:32.034][INFO]: - 'jeitweaker' at version '3.0.0.9'
